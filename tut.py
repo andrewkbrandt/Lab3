@@ -15,7 +15,7 @@ from pygame.locals import (
     KEYDOWN,
     QUIT,
 )
-
+#test input for 2 keys at the same time
 # Define constants for the screen width and height
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
